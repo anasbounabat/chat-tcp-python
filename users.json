@@ -1,6 +1,6 @@
 {
   "*admin*": {
-    "password_hash": "bcrypt$$2b$12$ETlBsvLb.frJA8e47acCfu5uL2HlR73XfNp0DeVD/HUqC6lQ.zezO"
+    "password_hash": "pbkdf2$eGO7zvd466UjbFpqNOlsSg==$bP1s2HzfmyOKVprfcjz4vy1VOKloNARstomNIVpQILA="
   },
   "anas": {
     "role": "admin",
